@@ -65,3 +65,6 @@ end
 group :test do
   gem 'capybara', '~> 2.9', '>= 2.9.1'
 end
+
+# Use Devise for authentication
+gem 'devise', '~> 4.2'
